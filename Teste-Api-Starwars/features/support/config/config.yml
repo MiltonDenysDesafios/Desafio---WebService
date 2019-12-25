@@ -1,2 +1,3 @@
 urls:
-  api: https://swapi.co/api/films/
+  web: 'https://www.inmetrics.com.br/'
+  api: 'https://swapi.co/api/films/'
